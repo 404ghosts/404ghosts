@@ -11,18 +11,17 @@
 <div align="center">
 
 <!-- FIXED HEADER — uses image-based typing SVG instead of broken ASCII -->
-[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=2000&color=00FF41&background=0D111700&center=true&vCenter=true&width=800&height=80&lines=4+0+4+G+H+O+S+T+S+👻)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A0F0A0&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=Ghost+in+the+machine.+👻;Code+by+night%2C+debug+by+dawn.;404%3A+Sleep+not+found.+💀;Building+things+that+shouldn't+exist.;Where+bugs+go+to+die.;%3E+ghost+protocol%3A+active_;if+you+can+read+this...+I'm+in+your+repo.)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=404ghosts&label=👁️+Haunted+by&color=00ff41&style=flat-square)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/404ghosts?label=👻+Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/404ghosts)
-&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/404ghosts?label=⭐+Stars&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/404ghosts)
-
-</div>
-
+<!--  GHOST ASCII BANNER  -->
+```
+ ██╗  ██╗ ██████╗ ██╗  ██╗  ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗███████╗
+ ██║  ██║██╔═══██╗██║  ██║ ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝██╔════╝
+ ███████║██║   ██║███████║ ██║  ███╗███████║██║   ██║███████╗   ██║   ███████╗ 
+ ╚════██║██║   ██║╚════██║ ██║   ██║██║  ██║██║   ██║╚════██║   ██║   ╚════██║ 
+      ██║╚██████╔╝     ██║ ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   ███████║ 
+      ╚═╝ ╚═════╝      ╚═╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝   ╚═╝   ╚══════╝
+```
+ 
+ 
 ## `> whoami`
 
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
