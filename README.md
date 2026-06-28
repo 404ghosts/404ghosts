@@ -78,77 +78,105 @@ print(ghost.greet())
 
 ## `> ./tech_stack.sh --full`
 
-### 👾 Languages
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+### Languages
 
-### ⚡ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="42" height="42" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="42" height="42" title="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="42" height="42" title="Python"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=rust" width="42" height="42" title="Rust"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="42" height="42" title="C++"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" width="42" height="42" title="Go"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" width="42" height="42" title="Bash"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=lua" width="42" height="42" title="Lua"/>
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+---
 
-### 🖥️ Backend
+### Frontend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="42" height="42" title="React"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" title="Next.js"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" title="Tailwind CSS"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=threejs" width="42" height="42" title="Three.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="42" height="42" title="Framer Motion" style="background:#0055FF;border-radius:8px;padding:4px;"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" width="42" height="42" title="Vite"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" width="42" height="42" title="Redux"/>
+</p>
 
-### 🗄️ Databases
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+### Backend
 
-### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" title="Node.js"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="42" height="42" title="Express"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="42" height="42" title="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=graphql" width="42" height="42" title="GraphQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="42" height="42" title="Socket.io" style="background:#white;border-radius:8px;padding:4px;filter:invert(1);"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" width="42" height="42" title="tRPC"/>
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-### 🔧 Dev Tools
+### Databases
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="42" height="42" title="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" title="MongoDB"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="42" height="42" title="Redis"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="42" height="42" title="SQLite"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" width="42" height="42" title="Supabase"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" width="42" height="42" title="Prisma"/>
+</p>
 
-### 🧪 Testing
+---
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="42" height="42" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="42" height="42" title="Kubernetes"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" width="42" height="42" title="GitHub Actions"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="42" height="42" title="AWS"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42" title="Vercel"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="42" height="42" title="Cloudflare"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" width="42" height="42" title="Nginx"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="42" height="42" title="Linux"/>
+</p>
+
+---
+
+### Dev Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=neovim" width="42" height="42" title="Neovim"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" title="VS Code"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="42" height="42" title="Git"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" title="Postman"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="42" height="42" title="Figma"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=obsidian" width="42" height="42" title="Obsidian"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=eslint" width="42" height="42" title="ESLint"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prettier" width="42" height="42" title="Prettier"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pnpm" width="42" height="42" title="pnpm"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=webpack" width="42" height="42" title="Webpack"/>
+</p>
+
+---
+
+### Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" width="42" height="42" title="Jest"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vitest" width="42" height="42" title="Vitest"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cypress" width="42" height="42" title="Cypress"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=playwright" width="42" height="42" title="Playwright"/>
+</p>
+
+
 
 ---
 
