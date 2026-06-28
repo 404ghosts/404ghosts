@@ -4,7 +4,7 @@
 
 <!-- ANIMATED BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=00FF41&height=200&section=header&text=404ghosts&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Ghost+in+the+Machine&descAlignY=85&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00BCD4,50:06B6D4,100:0097A7&height=260&section=header&text=404ghosts&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Ghost+in+the+Machine&descAlignY=85&descSize=20" width="100%"/>
 </div>
 
 ---
