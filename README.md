@@ -89,8 +89,8 @@ print(ghost.greet())
   <img src="https://skillicons.dev/icons?i=rust" width="42" height="42" title="Rust"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" width="42" height="42" title="C++"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=go" width="42" height="42" title="Go"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" width="42" height="42" title="Bash"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=lua" width="42" height="42" title="Lua"/>
+  <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Bash-Dark.svg" width="42" height="42" title="Bash"/>&nbsp;&nbsp;
+  <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Lua-Dark.svg" width="42" height="42" title="Lua"/>
 </p>
 
 ---
@@ -101,8 +101,8 @@ print(ghost.greet())
   <img src="https://skillicons.dev/icons?i=react" width="42" height="42" title="React"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" width="42" height="42" title="Next.js"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" title="Tailwind CSS"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=threejs" width="42" height="42" title="Three.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="42" height="42" title="Framer Motion" style="background:#0055FF;border-radius:8px;padding:4px;"/>&nbsp;&nbsp;
+  <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/ThreeJS-Dark.svg" width="42" height="42" title="Three.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="42" height="42" title="Framer Motion" style="background:#0055FF;border-radius:8px;padding:4px;box-sizing:border-box;"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vite" width="42" height="42" title="Vite"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux" width="42" height="42" title="Redux"/>
 </p>
@@ -113,10 +113,10 @@ print(ghost.greet())
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" title="Node.js"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="42" height="42" title="Express"/>&nbsp;&nbsp;
+  <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/ExpressJS-Dark.svg" width="42" height="42" title="Express"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" width="42" height="42" title="FastAPI"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=graphql" width="42" height="42" title="GraphQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="42" height="42" title="Socket.io" style="background:#white;border-radius:8px;padding:4px;filter:invert(1);"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="42" height="42" title="Socket.io" style="background:#white;border-radius:8px;padding:4px;filter:invert(1);box-sizing:border-box;"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" width="42" height="42" title="tRPC"/>
 </p>
 
@@ -158,24 +158,24 @@ print(ghost.greet())
   <img src="https://skillicons.dev/icons?i=git" width="42" height="42" title="Git"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" title="Postman"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="42" height="42" title="Figma"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=obsidian" width="42" height="42" title="Obsidian"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=eslint" width="42" height="42" title="ESLint"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=prettier" width="42" height="42" title="Prettier"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pnpm" width="42" height="42" title="pnpm"/>&nbsp;&nbsp;
+  <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Obsidian-Dark.svg" width="42" height="42" title="Obsidian"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain.svg" width="42" height="42" title="ESLint"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prettier/F7B93E" width="42" height="42" title="Prettier"/>&nbsp;&nbsp;
+  <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Pnpm-Dark.svg" width="42" height="42" title="pnpm"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=webpack" width="42" height="42" title="Webpack"/>
 </p>
 
 ---
 
+
 ### Testing
 
 <p>
   <img src="https://skillicons.dev/icons?i=jest" width="42" height="42" title="Jest"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vitest" width="42" height="42" title="Vitest"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cypress" width="42" height="42" title="Cypress"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=playwright" width="42" height="42" title="Playwright"/>
+  <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Vitest-Dark.svg" width="42" height="42" title="Vitest"/>&nbsp;&nbsp;
+  <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Cypress-Dark.svg" width="42" height="42" title="Cypress"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="42" height="42" title="Playwright"/>
 </p>
-
 
 
 ---
